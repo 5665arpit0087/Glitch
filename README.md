@@ -1,2 +1,2 @@
 # Glitch
-Simple web page
+A landing page showing the power of JQuery.
